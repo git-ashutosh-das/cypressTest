@@ -13,6 +13,6 @@ module.exports = defineConfig({
     ] ,
   },
  
-  defaultCommandTimeout: 60000,
+  defaultCommandTimeout: 55000,
   
 });
