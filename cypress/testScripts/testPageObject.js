@@ -1,7 +1,7 @@
 class TestPageObject {
 
-    object(){
-        return cy.get('');
+    listOfDropdownsCSS(){
+        return "._1XjE3T";
     }
 
 }

@@ -2,7 +2,7 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   env : {
-    url : 'abc',
+    url : 'https://www.flipkart.com',
   },
   e2e: {
     setupNodeEvents(on, config) {
